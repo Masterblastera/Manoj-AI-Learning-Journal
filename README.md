@@ -1,4 +1,6 @@
 # Manoj-AI-Learning-Journal
 My Daily AI Learning Notes Codes and Resources
+<br>
 This is my first github project 
-Author: Manoj S
+<br>
+Author: Manoj Baghel
