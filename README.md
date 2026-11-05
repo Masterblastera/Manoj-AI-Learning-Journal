@@ -11,7 +11,7 @@ My personal AI engineering learning notes, commands, resources, and troubleshoot
 Official Download:
 https://www.python.org/downloads/
 
-Check Version:
+Verify Version:
 
 ```bash
 python --version
@@ -22,7 +22,7 @@ python --version
 Official Download:
 https://code.visualstudio.com/download
 
-Check Version:
+Verify Version:
 
 ```bash
 code --version
@@ -36,7 +36,7 @@ https://docs.astral.sh/uv/
 Installation:
 https://docs.astral.sh/uv/getting-started/installation/
 
-Check Version:
+Verify Version:
 
 ```bash
 uv --version
@@ -47,7 +47,7 @@ uv --version
 Official Download:
 https://git-scm.com/downloads
 
-Check Version:
+Verify Version:
 
 ```bash
 git --version
