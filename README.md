@@ -3,6 +3,37 @@
 My personal AI engineering learning notes, commands, resources, and troubleshooting guides.
 
 ---
+# Setup Verification Checklist
+
+✅ Python Installed
+
+```bash
+python --version
+py --version
+```
+
+✅ VS Code Installed
+
+```bash
+code --version
+which code
+```
+
+✅ UV Installed
+
+```bash
+uv --version
+which uv
+```
+
+✅ Git Installed
+
+```bash
+git --version
+which git
+```
+
+---
 
 # Environment Setup
 
