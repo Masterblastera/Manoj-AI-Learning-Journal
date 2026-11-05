@@ -186,23 +186,45 @@ https://github.com/new
 
 
 # Interview QS
+
 # AI Concept: Knowledge Cutoff
- 
-A large language model is trained on data available up to a certain date.
- 
-Limitation:
-- It may not know events occurring after its training cutoff.
- <br>
-Workaround:
-<br>
-- Use web search.
-- Use APIs.
-- Use Retrieval-Augmented Generation (RAG).
-- Use external databases and tools.
- 
-Real-world AI applications often combine:
+
+A Large Language Model (LLM) is trained on data available up to a certain point in time.
+
+## Limitation
+
+- It may not know events that occurred after its training cutoff.
+
+## Workarounds
+
+- Use web search
+- Use APIs
+- Use Retrieval-Augmented Generation (RAG)
+- Use external databases and tools
+
+## Real-World AI Systems
+
+Most AI applications combine:
+
 LLM + Search + Database + Tools
 
+## Example
+
+Without web search:
+
+Question:
+What happened yesterday?
+
+Result:
+The AI may not know.
+
+With web search:
+
+Question:
+What happened yesterday?
+
+Result:
+The AI can retrieve current information from the web and answer accurately.
 ---
 
 
