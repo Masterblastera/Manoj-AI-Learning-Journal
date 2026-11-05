@@ -166,6 +166,24 @@ https://github.com/new
 
 (To be added as I learn)
 
+# Prompt Engineering Notes
+
+# LLM Notes
+
+# RAG Notes
+
+# Vector Database Notes
+
+# AI Agent Notes
+
+# MCP Notes
+
+# LangChain Notes
+
+# LCEL Notes
+
+# LangGraph Notes
+
 ---
 
 
