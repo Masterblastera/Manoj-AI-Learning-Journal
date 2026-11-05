@@ -192,8 +192,9 @@ A large language model is trained on data available up to a certain date.
  
 Limitation:
 - It may not know events occurring after its training cutoff.
- 
+ <br>
 Workaround:
+<br>
 - Use web search.
 - Use APIs.
 - Use Retrieval-Augmented Generation (RAG).
