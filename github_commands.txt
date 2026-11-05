@@ -1,0 +1,17 @@
+The guide explains GitHub commands in simple language, including:
+- git init — initialize a repository
+- git status — check changes
+- git add — stage files
+- git commit — save changes
+- git push — upload files to GitHub
+- git pull — download updates
+- git clone — download a repository
+- git branch and git switch — work with branches
+- git log — view commit history
+- git restore — undo changes
+- .gitignore — ignore unwanted files
+
+Steps to upload the file in GitHub
+git add GITHUB_COMMANDS.txt
+git commit -m "Add GitHub commands guide"
+git push origin main
